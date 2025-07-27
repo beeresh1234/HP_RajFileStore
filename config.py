@@ -18,7 +18,7 @@ from logging.handlers import RotatingFileHandler
 #rohit_1888 on Tg
 #--------------------------------------------
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8103634300:AAEGyBm1OjVhvn1jM1Ib7cha8brfex5LR0A")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "8103634300:AAF6PTivDwKndUJGTpWVdyAdY10glek7oAg")
 APP_ID = int(os.environ.get("APP_ID", "28269435")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "839f282133fe8ee79b4a946095cf4360") #Your API Hash from my.telegram.org
 #--------------------------------------------
@@ -32,12 +32,12 @@ PORT = os.environ.get("PORT", "8001")
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Hanuman:hanuman@cluster0.l5toshc.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = os.environ.get("DATABASE_NAME", "Hanuman")
 #--------------------------------------------
-FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
+FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "100"))  # 0 means no expiry
 BAN_SUPPORT = os.environ.get("BAN_SUPPORT", "https://t.me/+MTPnr-rQl9oyMDg1")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "200"))
 #--------------------------------------------
-START_PIC = os.environ.get("START_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
-FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
+START_PIC = os.environ.get("START_PIC", "https://graph.org/file/0d78217857b37df997c4a-99388bba47c02dba1f.jpg")
+FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/0d78217857b37df997c4a-99388bba47c02dba1f.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
