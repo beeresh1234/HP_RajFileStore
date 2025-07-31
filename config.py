@@ -45,8 +45,8 @@ HELP_TXT = "<b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴄʜᴀɴɴᴇʟꜱ/ɢʀᴏᴜᴩꜱ �
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/cosmic_freak>Yato</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/webseries_flix>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/pornhwa_flix>ᴘᴏʀɴʜᴡᴀs</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/cosmic_freak>subaru</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {mention}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote>/n ᴀᴅᴍɪɴ :- <a href=https://t.me/HP_Raj_Support_Bot>ӇƤ Ʀƛʆ</a></b>")
-FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "ʜᴇʟʟᴏ {mention}\n\n<b>ʏᴏᴜ ʜᴀᴠᴇ ɴᴏᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟꜱ. ꜰɪʀꜱᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴄʟɪᴄᴋ "ᴛʀʏ ᴀɢᴀɪɴ" ʙᴜᴛᴛᴏɴ 😘\n\n ನೀವು ನಮ್ಮ ಚಾನೆಲ್ಗಳಿಗೆ ಜಾಯಿನ್ ಆಗಿಲ್ಲ. ಮೊದಲು ನಮ್ಮ ಚಾನೆಲ್ಗಳಿಗೆ ಜಾಯಿನ್ ಆಗಿ "Try Again" ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ 😘</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<blockquote> ɪ ᴀᴍ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ, ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ.</blockquote>/n ᴀᴅᴍɪɴ :- <a href=https://t.me/HP_Raj_Support_Bot>ӇƤ Ʀƛʆ</a></b>")
+FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n<b>ʏᴏᴜ ʜᴀᴠᴇ ɴᴏᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟꜱ. ꜰɪʀꜱᴛ ᴊᴏɪɴ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴄʟɪᴄᴋ "ᴛʀʏ ᴀɢᴀɪɴ" ʙᴜᴛᴛᴏɴ 😘\n\n ನೀವು ನಮ್ಮ ಚಾನೆಲ್ಗಳಿಗೆ ಜಾಯಿನ್ ಆಗಿಲ್ಲ. ಮೊದಲು ನಮ್ಮ ಚಾನೆಲ್ಗಳಿಗೆ ಜಾಯಿನ್ ಆಗಿ "Try Again" ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಿ 😘</b>")
 
 CMD_TXT = """<blockquote><b>» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs:</b></blockquote>
 
