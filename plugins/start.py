@@ -85,7 +85,7 @@ async def start_command(client: Client, message: Message):
                 print(f"Error decoding ID: {e}")
                 return
 
-        temp_msg = await message.reply("<b>Please wait...</b>")
+        temp_msg = await message.reply("<b>🚩।। Jᴀɪ Sʜʀᴇᴇ Rᴀᴍ ।। 🚩</b>")
         try:
             messages = await get_messages(client, ids)
         except Exception as e:
@@ -129,11 +129,11 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                    [InlineKeyboardButton("• ᴍᴏʀᴇ ᴄʜᴀɴɴᴇʟs •", url="https://t.me/Nova_Flix/50")],
+                    [InlineKeyboardButton("•🤖 ᴍᴏᴠɪᴇ ʙᴏᴛ 🤖", url="https://t.me/HP_RajMVBot")],
 
     [
-                    InlineKeyboardButton("• ᴀʙᴏᴜᴛ", callback_data = "about"),
-                    InlineKeyboardButton('ʜᴇʟᴘ •', callback_data = "help")
+                    InlineKeyboardButton("💢 ᴀʙᴏᴜᴛ", callback_data = "about"),
+                    InlineKeyboardButton('👮 ᴀᴅᴍɪɴ', callback_data = "help")
 
     ]
             ]
