@@ -41,7 +41,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/413a07107e5ff32b
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴄʜᴀɴɴᴇʟꜱ 👇\n\n1) ʜᴅ ᴍᴏᴠɪᴇꜱ : <a href=https://t.me/+ftt8J9zkjsoxNTFl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>  </b>"
+HELP_TXT = "<b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴄʜᴀɴɴᴇʟꜱ/ɢʀᴏᴜᴩꜱ 👇\n\n1) ʜᴅ ᴍᴏᴠɪᴇꜱ : <a href=https://t.me/+ftt8J9zkjsoxNTFl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n2) ᴍᴏᴠɪᴇ ᴜᴩᴅᴀᴛᴇꜱ : <a href=https://t.me/+DdA9O8bwZ0ljODk1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n3) ᴍᴜʟᴛɪ ʟᴀɴɢ ᴍᴏᴠɪᴇꜱ : <a href=https://t.me/+SSAAbtb7GyRmOTM1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n4) ᴍᴏᴠɪᴇ ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴩ : <a href=https://t.me/+DWu_QXl2Ydg3N2Zl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n5) ᴩʀᴇᴍɪᴜᴍ ᴍᴠ ʀᴇqᴜᴇꜱᴛ ɢʀᴏᴜᴩ : <a href=https://t.me/+WeBp4ZqcWscwNjg1>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n\n💢 ʙᴀᴄᴋᴜᴩ : @HP_Raj_MOVIES</b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/cosmic_freak>Yato</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/webseries_flix>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/pornhwa_flix>ᴘᴏʀɴʜᴡᴀs</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/cosmic_freak>subaru</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
