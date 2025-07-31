@@ -41,7 +41,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://graph.org/file/413a07107e5ff32b
 #--------------------------------------------
 
 #--------------------------------------------
-HELP_TXT = "<b>ᴀᴅᴍɪɴ ɴᴀᴍᴇ :- ӇƤ Ʀƛʆ\n\nᴜꜱᴇʀ ɴᴀᴍᴇ :- </b>"
+HELP_TXT = "<b>ᴀᴠᴀɪʟᴀʙʟᴇ ᴄʜᴀɴɴᴇʟꜱ 👇\n\n1) ʜᴅ ᴍᴏᴠɪᴇꜱ : <a href=https://t.me/+ftt8J9zkjsoxNTFl>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>  </b>"
 ABOUT_TXT = "<b><blockquote>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/cosmic_freak>Yato</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/otakuflix_network>ᴏᴛᴀᴋᴜғʟɪx ɴᴇᴛᴡᴏʀᴋ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/anime_cruise_netflix>ᴀɴɪᴍᴇ ᴄʀᴜɪsᴇ</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/webseries_flix>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴍᴀɴʜᴡᴀ : <a href=https://t.me/pornhwa_flix>ᴘᴏʀɴʜᴡᴀs</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/cosmic_freak>subaru</a></blockquote></b>"
 #--------------------------------------------
 #--------------------------------------------
